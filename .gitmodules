@@ -25,3 +25,9 @@
 	path = lib/lvgl
 	url = https://github.com/qmk/lvgl.git
 	branch = release/v8.2
+[submodule "drivers/ryu"]
+	path = drivers/ryu
+	url = git@github.com:ulfjack/ryu.git
+[submodule "drivers/tinyexpr"]
+	path = drivers/tinyexpr
+	url = git@github.com:codeplea/tinyexpr.git
